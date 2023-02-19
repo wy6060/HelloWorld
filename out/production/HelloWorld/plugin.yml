@@ -1,6 +1,6 @@
 name: "HelloWorld"
 main: cn.mc597422.helloworld.Main
-version: 2.7
+version: 1.0
 api-version: 1.13
 description: "一个测试插件而已"
 softdepend:
