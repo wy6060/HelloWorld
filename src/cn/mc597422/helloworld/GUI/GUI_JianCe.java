@@ -29,7 +29,7 @@ public class GUI_JianCe implements Listener {
         }
         else if (hw.getRawSlot()==13)
         {
-            P.sendMessage(ChatColor.GREEN + "[HelloWorld] " + ChatColor.WHITE + "插件版本: 2.7");
+            P.sendMessage(ChatColor.GREEN + "[HelloWorld] " + ChatColor.WHITE + "插件版本: 1.0");
         }
         else if (hw.getRawSlot()==15)
         {
