@@ -1,0 +1,17 @@
+name: "HelloWorld"
+main: cn.mc597422.helloworld.Main
+version: 2.7
+api-version: 1.13
+description: "一个测试插件而已"
+softdepend:
+  - PlaceholderAPI
+commands:
+  HelloWorld:
+    description: "插件指令"
+    permission: HelloWorld.Command
+    permission-message: "§c你没有权限！"
+    aliases:
+      - hw
+permissions:
+  HelloWorld.Command:
+    description: "HelloWorld指令"
